@@ -1,0 +1,1 @@
+SELECT fname, lname FROM users LIMIT 1;
