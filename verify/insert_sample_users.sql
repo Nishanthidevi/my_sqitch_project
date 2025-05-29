@@ -17,7 +17,7 @@ BEGIN
     SELECT 1
     FROM information_schema.columns
     WHERE table_name = 'users'
-      AND column_name = 'firstname'
+      AND column_name = 'fname'
   ) THEN
     RAISE EXCEPTION 'Column fname does not exist';
   END IF;

@@ -6,3 +6,4 @@ add_name_columns 2025-05-28T10:10:38Z Nishanthidevi.R <Nishanthidevi.R@TL500> # 
 add_name_columns_v2 2025-05-28T11:39:32Z Nishanthidevi.R <Nishanthidevi.R@TL500> # Add firstname and lastname columns to users table v2
 insert_sample_users 2025-05-28T11:44:00Z Nishanthidevi.R <Nishanthidevi.R@TL500> # Insert sample data into users table
 insert_more_users 2025-05-28T12:04:00Z Nishanthidevi.R <Nishanthidevi.R@TL500> # Insert more sample users
+insert_number_of_users 2025-05-29T07:37:19Z Nishanthidevi.R <Nishanthidevi.R@TL500> # Insert more users
